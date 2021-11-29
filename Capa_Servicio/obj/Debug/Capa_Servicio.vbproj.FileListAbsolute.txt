@@ -1,0 +1,14 @@
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Servicio.dll
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Servicio.pdb
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Servicio.xml
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Datos.dll
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Datos.pdb
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\bin\Debug\Capa_Datos.xml
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.vbproj.AssemblyReference.cache
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.Resources.resources
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.vbproj.GenerateResource.cache
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.vbproj.CoreCompileInputs.cache
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.vbproj.CopyComplete
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.dll
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.xml
+C:\Users\Edgardo\source\repos\2020_DS8_PROC_CLASE\Capa_Servicio\obj\Debug\Capa_Servicio.pdb
